@@ -9,6 +9,7 @@
 * #### The number of retirement eligibile employees is over 72,000.  
 
 * #### The Senior Staff and Senior Engineer job titles make up over 2/3 of the retirments.
+![](https://github.com/ethiry99/HW7_Pewlett_Hackard/blob/main/Resources/retirees_by_title.png)
 
 * #### The Mentorship pool is about 1500 employees.
 
