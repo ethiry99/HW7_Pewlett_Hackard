@@ -25,3 +25,4 @@ With about 1500 mentorship possibilities there are not enough poeple in their hu
 ### Additional Insights
 
 #### The Development, Production and Sales Departments account for over 60% of the expected retirees.  These departments will need to be especially vigilant to be ready for the upcoming shift.
+![](https://github.com/ethiry99/HW7_Pewlett_Hackard/blob/main/Resources/retirees_by_department.png)
