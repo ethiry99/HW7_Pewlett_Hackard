@@ -48,17 +48,13 @@ em.birth_date,
 de.from_date,
 de.to_date,
 ti.title
-into mentorship_eligibility
+--into mentorship_eligibility
 from employees as em
-
 left join titles as ti
 on em.emp_no=ti.emp_no
-
 left join dept_emp as de
 on em.emp_no=de.emp_no
- 
 where (em.birth_date between '1965-01-01' AND '1965-12-31') and de.to_date='9999-01-01'
-
 order by em.emp_no;
 
 drop table retiring_titles;
