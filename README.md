@@ -27,6 +27,6 @@ With about 1500 mentorship possibilities there are not enough poeple in their hu
 * #### The Development, Production and Sales Departments account for over 60% of the expected retirees.  These departments will need to be especially vigilant to be ready for the upcoming shift.
 ![](https://github.com/ethiry99/HW7_Pewlett_Hackard/blob/main/Resources/retirees_by_department.png)
 
-* #### Expanding the mentorship to include employees born in 1964 has a dramatic increase in the potential number of employees involved.  The number increases from about 1500 to over 19,000.  More will nbeed to be done to fill the shoes of retirees but that is a nice first step!
+* #### Expanding the mentorship to include employees born in 1964 has a dramatic increase in the potential number of employees involved.  The number increases from about 1500 to nearly 20,000.  More will nbeed to be done to fill the shoes of retirees but that is a nice first step!
 ![](https://github.com/ethiry99/HW7_Pewlett_Hackard/blob/main/Resources/refactored_mentor.png)
   
